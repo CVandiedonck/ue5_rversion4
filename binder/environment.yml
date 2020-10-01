@@ -11,7 +11,6 @@ dependencies:
   - nbresuse
   - nodejs
   - r-irkernel
-  - r-base>=4.02
+  - r-base>=4
   - r-tidyverse
-  - r_swirl
-
+  
