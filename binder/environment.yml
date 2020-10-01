@@ -13,4 +13,4 @@ dependencies:
   - r-irkernel
   - r-base>=4
   - r-tidyverse
-  
+  - r-swirl
